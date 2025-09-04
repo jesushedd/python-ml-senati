@@ -1,96 +1,301 @@
-set 03 20:14:06 victor-huron systemd[1]: Started dbus-:1.2-org.kde.powerdevil.backlighthelper@9.service.
-set 03 20:14:16 victor-huron systemd[1]: dbus-:1.2-org.kde.powerdevil.backlighthelper@9.service: Deactivated successfully.
-set 03 20:14:22 victor-huron kscreenlocker_greet[3007]: qt.virtualkeyboard.hunspell: Hunspell dictionary is missing for "es_ES". Search paths QList("/usr/share/qt6/qtvirtualkeyboard/hunspell", "/usr/share/hunspell", "/usr/share/myspell/dicts")
-set 03 20:14:28 victor-huron systemd[1]: Started dbus-:1.2-org.kde.powerdevil.backlighthelper@10.service.
-set 03 20:14:38 victor-huron systemd[1]: dbus-:1.2-org.kde.powerdevil.backlighthelper@10.service: Deactivated successfully.
-set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:09 victor-huron systemd[1]: Started Getty on tty3.
-set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:09 victor-huron plasmashell[681]: file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml:91: TypeError: Cannot read property 'description' of undefined
-set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:09 victor-huron plasmashell[681]: file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml:91: TypeError: Cannot read property 'description' of undefined
-set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null.monitor"
-set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null.monitor"
-set 03 20:17:09 victor-huron kernel: fbcon: Taking over console
-set 03 20:17:09 victor-huron kernel: Console: switching to colour frame buffer device 200x56
-set 03 20:17:09 victor-huron systemd[1]: systemd-vconsole-setup.service: Deactivated successfully.
-set 03 20:17:09 victor-huron systemd[1]: Stopped Virtual Console Setup.
-set 03 20:17:09 victor-huron systemd[1]: Stopping Virtual Console Setup...
-set 03 20:17:09 victor-huron systemd[1]: Starting Virtual Console Setup...
-set 03 20:17:09 victor-huron systemd[1]: Finished Virtual Console Setup.
-set 03 20:17:19 victor-huron login[3064]: pam_unix(login:session): session opened for user victorj(uid=1000) by victorj(uid=0)
-set 03 20:17:20 victor-huron systemd-logind[489]: New session 3 of user victorj.
-set 03 20:17:20 victor-huron systemd[1]: Started Session 3 of User victorj.
-set 03 20:17:20 victor-huron login[3064]: LOGIN ON tty3 BY victorj
-set 03 20:17:20 victor-huron wireplumber[819]: spa.bluez5: BlueZ system service is not available
-set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null"
-set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null"
-set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null.monitor"
-set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null.monitor"
-set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:20 victor-huron systemd[1]: Starting Network Manager Wait Online...
-set 03 20:17:20 victor-huron systemd[1]: Starting PackageKit Daemon...
-set 03 20:17:20 victor-huron PackageKit[3109]: daemon start
-set 03 20:17:20 victor-huron systemd[1]: Finished Network Manager Wait Online.
-set 03 20:17:20 victor-huron systemd[1]: Reached target Network is Online.
-set 03 20:17:20 victor-huron systemd[1]: Started PackageKit Daemon.
-set 03 20:17:20 victor-huron PackageKit[3109]: search-file transaction /1_adbabbac from uid 1000 finished with success after 299ms
-set 03 20:17:22 victor-huron kcminit[3355]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_mouse.so"
-set 03 20:17:22 victor-huron kcminit[3355]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_touchpad.so"
-set 03 20:17:22 victor-huron kcminit[3355]: kcm_touchpad: Using X11 backend
-set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:32 victor-huron plasmashell[681]: file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml:91: TypeError: Cannot read property 'description' of undefined
-set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:32 victor-huron plasmashell[681]: file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml:91: TypeError: Cannot read property 'description' of undefined
-set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null.monitor"
-set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null.monitor"
-set 03 20:17:33 victor-huron wireplumber[819]: spa.bluez5: BlueZ system service is not available
-set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null"
-set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null"
-set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null.monitor"
-set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null.monitor"
-set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
-set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
-set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
-set 03 20:17:34 victor-huron kcminit[3371]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_mouse.so"
-set 03 20:17:34 victor-huron kcminit[3371]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_touchpad.so"
-set 03 20:17:34 victor-huron kcminit[3371]: kcm_touchpad: Using X11 backend
+set 03 20:21:49 victor-huron baloo_file_extractor[3399]: kf.baloo: Not busy, fast indexing
+set 03 20:22:25 victor-huron PackageKit[3109]: daemon quit
+set 03 20:22:25 victor-huron systemd[1]: packagekit.service: Deactivated successfully.
+set 03 20:29:46 victor-huron kcminit[3455]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_mouse.so"
+set 03 20:29:46 victor-huron kcminit[3455]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_touchpad.so"
+set 03 20:29:46 victor-huron kcminit[3455]: kcm_touchpad: Using X11 backend
+set 03 20:30:05 victor-huron systemd-logind[489]: The system will suspend now!
+set 03 20:30:05 victor-huron NetworkManager[486]: <info>  [1756949405.5023] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+set 03 20:30:05 victor-huron ModemManager[525]: <msg> [sleep-monitor-systemd] system is about to suspend
+set 03 20:30:05 victor-huron chromium[1489]: [1489:1509:0903/203005.505540:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+set 03 20:30:05 victor-huron NetworkManager[486]: <info>  [1756949405.5024] manager: NetworkManager state is now ASLEEP
+set 03 20:30:05 victor-huron ModemManager[525]: <msg> [sleep-monitor-systemd] ready to sleep; dropping inhibitor
+set 03 20:30:05 victor-huron NetworkManager[486]: <info>  [1756949405.5026] device (wlp3s0): state change: activated -> deactivating (reason 'sleeping', managed-type: 'full')
+set 03 20:30:05 victor-huron systemd[1]: Starting Network Manager Script Dispatcher Service...
+set 03 20:30:05 victor-huron systemd[1]: Started Network Manager Script Dispatcher Service.
+set 03 20:30:05 victor-huron kernel: wlp3s0: deauthenticating from e6:66:ab:10:9a:66 by local choice (Reason: 3=DEAUTH_LEAVING)
+set 03 20:30:05 victor-huron wpa_supplicant[543]: nl80211: send_event_marker failed: Source based routing not supported
+set 03 20:30:05 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-DISCONNECTED bssid=e6:66:ab:10:9a:66 reason=3 locally_generated=1
+set 03 20:30:05 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-DSCP-POLICY clear_all
+set 03 20:30:05 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+set 03 20:30:05 victor-huron NetworkManager[486]: <info>  [1756949405.6928] device (wlp3s0): supplicant interface state: completed -> disconnected
+set 03 20:30:05 victor-huron NetworkManager[486]: <info>  [1756949405.6931] device (wlp3s0): state change: deactivating -> disconnected (reason 'sleeping', managed-type: 'full')
+set 03 20:30:05 victor-huron NetworkManager[486]: <info>  [1756949405.6937] dhcp4 (wlp3s0): canceled DHCP transaction
+set 03 20:30:05 victor-huron NetworkManager[486]: <info>  [1756949405.6938] dhcp4 (wlp3s0): activation: beginning transaction (timeout in 45 seconds)
+set 03 20:30:05 victor-huron NetworkManager[486]: <info>  [1756949405.6938] dhcp4 (wlp3s0): state changed no lease
+set 03 20:30:05 victor-huron NetworkManager[486]: <info>  [1756949405.7202] device (wlp3s0): set-hw-addr: set MAC address to C2:CF:8F:4E:C8:EC (scanning)
+set 03 20:30:05 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:06 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:06 victor-huron NetworkManager[486]: <info>  [1756949406.2045] device (wlp3s0): supplicant interface state: disconnected -> interface_disabled
+set 03 20:30:06 victor-huron NetworkManager[486]: <info>  [1756949406.2045] device (wlp3s0): supplicant interface state: interface_disabled -> disconnected
+set 03 20:30:06 victor-huron NetworkManager[486]: <info>  [1756949406.2049] device (wlp3s0): state change: disconnected -> unmanaged (reason 'unmanaged-sleeping', managed-type: 'full')
+set 03 20:30:06 victor-huron NetworkManager[486]: <info>  [1756949406.6976] device (wlp3s0): set-hw-addr: reset MAC address to A4:4E:31:DC:06:40 (unmanage)
+set 03 20:30:06 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:07 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:07 victor-huron systemd[1]: Reached target Sleep.
+set 03 20:30:07 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-DSCP-POLICY clear_all
+set 03 20:30:07 victor-huron systemd[1]: Starting System Suspend...
+set 03 20:30:07 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-DSCP-POLICY clear_all
+set 03 20:30:07 victor-huron wpa_supplicant[543]: nl80211: deinit ifname=wlp3s0 disabled_11b_rates=0
+set 03 20:30:07 victor-huron systemd[1]: user@1000.service: Unit now frozen-by-parent.
+set 03 20:30:07 victor-huron systemd[1]: session-1.scope: Unit now frozen-by-parent.
+set 03 20:30:07 victor-huron systemd[1]: session-3.scope: Unit now frozen-by-parent.
+set 03 20:30:07 victor-huron systemd[1]: user-1000.slice: Unit now frozen-by-parent.
+set 03 20:30:07 victor-huron systemd[1]: user.slice: Unit now frozen.
+set 03 20:30:07 victor-huron systemd-sleep[3479]: Successfully froze unit 'user.slice'.
+set 03 20:30:07 victor-huron systemd-sleep[3479]: Performing sleep operation 'suspend'...
+set 03 20:30:07 victor-huron kernel: PM: suspend entry (deep)
+set 03 20:30:07 victor-huron kernel: Filesystems sync: 0.545 seconds
+set 03 20:30:11 victor-huron kernel: Freezing user space processes
+set 03 20:30:11 victor-huron kernel: Freezing user space processes completed (elapsed 0.001 seconds)
+set 03 20:30:11 victor-huron kernel: OOM killer disabled.
+set 03 20:30:11 victor-huron kernel: Freezing remaining freezable tasks
+set 03 20:30:11 victor-huron kernel: Freezing remaining freezable tasks completed (elapsed 0.000 seconds)
+set 03 20:30:11 victor-huron kernel: printk: Suspending console(s) (use no_console_suspend to debug)
+set 03 20:30:11 victor-huron kernel: sd 0:0:0:0: [sda] Synchronizing SCSI cache
+set 03 20:30:11 victor-huron kernel: ata1.00: Entering standby power mode
+set 03 20:30:11 victor-huron kernel: e1000e: EEE TX LPI TIMER: 00000011
+set 03 20:30:11 victor-huron kernel: ACPI: EC: interrupt blocked
+set 03 20:30:11 victor-huron kernel: ACPI: PM: Preparing to enter system sleep state S3
+set 03 20:30:11 victor-huron kernel: ACPI: EC: event blocked
+set 03 20:30:11 victor-huron kernel: ACPI: EC: EC stopped
+set 03 20:30:11 victor-huron kernel: ACPI: PM: Saving platform NVS memory
+set 03 20:30:11 victor-huron kernel: Disabling non-boot CPUs ...
+set 03 20:30:11 victor-huron kernel: smpboot: CPU 3 is now offline
+set 03 20:30:11 victor-huron kernel: smpboot: CPU 2 is now offline
+set 03 20:30:11 victor-huron kernel: smpboot: CPU 1 is now offline
+set 03 20:30:11 victor-huron kernel: ACPI: PM: Low-level resume complete
+set 03 20:30:11 victor-huron kernel: ACPI: EC: EC started
+set 03 20:30:11 victor-huron kernel: ACPI: PM: Restoring platform NVS memory
+set 03 20:30:11 victor-huron kernel: Enabling non-boot CPUs ...
+set 03 20:30:11 victor-huron kernel: smpboot: Booting Node 0 Processor 1 APIC 0x1
+set 03 20:30:11 victor-huron kernel: CPU1 is up
+set 03 20:30:11 victor-huron kernel: smpboot: Booting Node 0 Processor 2 APIC 0x2
+set 03 20:30:11 victor-huron kernel: CPU2 is up
+set 03 20:30:11 victor-huron kernel: smpboot: Booting Node 0 Processor 3 APIC 0x3
+set 03 20:30:11 victor-huron kernel: CPU3 is up
+set 03 20:30:11 victor-huron kernel: ACPI: PM: Waking up from system sleep state S3
+set 03 20:30:11 victor-huron kernel: ACPI: EC: interrupt unblocked
+set 03 20:30:11 victor-huron kernel: sdhci-pci 0000:02:00.0: MMC controller base frequency changed to 50Mhz.
+set 03 20:30:11 victor-huron kernel: ACPI: EC: event unblocked
+set 03 20:30:11 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:11 victor-huron kernel: usb 2-1.1: reset full-speed USB device number 3 using ehci-pci
+set 03 20:30:11 victor-huron kernel: ata5: SATA link down (SStatus 0 SControl 300)
+set 03 20:30:11 victor-huron kernel: ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+set 03 20:30:11 victor-huron kernel: ata2.00: ACPI cmd ef/10:03:00:00:00:a0(SET FEATURES) filtered out
+set 03 20:30:11 victor-huron kernel: ata2.00: ACPI cmd ef/10:03:00:00:00:a0(SET FEATURES) filtered out
+set 03 20:30:11 victor-huron kernel: ata2.00: configured for UDMA/133
+set 03 20:30:11 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:11 victor-huron kernel: usb 2-1.6: reset high-speed USB device number 4 using ehci-pci
+set 03 20:30:11 victor-huron kernel: OOM killer enabled.
+set 03 20:30:11 victor-huron kernel: Restarting tasks ... done.
+set 03 20:30:11 victor-huron kernel: random: crng reseeded on system resumption
+set 03 20:30:11 victor-huron systemd-sleep[3479]: System returned from sleep operation 'suspend'.
+set 03 20:30:11 victor-huron kernel: PM: suspend exit
+set 03 20:30:11 victor-huron systemd[1]: user.slice: Unit now thawed.
+set 03 20:30:11 victor-huron systemd[1]: user-1000.slice: Unit now thawed.
+set 03 20:30:11 victor-huron systemd[1]: session-3.scope: Unit now thawed.
+set 03 20:30:11 victor-huron systemd[1]: session-1.scope: Unit now thawed.
+set 03 20:30:11 victor-huron systemd[1]: user@1000.service: Unit now thawed.
+set 03 20:30:11 victor-huron systemd-sleep[3479]: Successfully thawed unit 'user.slice'.
+set 03 20:30:11 victor-huron systemd[1]: systemd-suspend.service: Deactivated successfully.
+set 03 20:30:11 victor-huron systemd[1]: Finished System Suspend.
+set 03 20:30:11 victor-huron systemd[1]: Stopped target Sleep.
+set 03 20:30:11 victor-huron systemd[1]: Reached target Suspend.
+set 03 20:30:11 victor-huron systemd[1]: Stopped target Suspend.
+set 03 20:30:11 victor-huron systemd-logind[489]: Operation 'suspend' finished.
+set 03 20:30:11 victor-huron NetworkManager[486]: <info>  [1756949411.5726] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+set 03 20:30:11 victor-huron ModemManager[525]: <msg> [sleep-monitor-systemd] system is resuming
+set 03 20:30:11 victor-huron NetworkManager[486]: <info>  [1756949411.5727] device (enp0s25): state change: unavailable -> unmanaged (reason 'unmanaged-sleeping', managed-type: 'full')
+set 03 20:30:11 victor-huron systemd[1]: Bluetooth service was skipped because of an unmet condition check (ConditionPathIsDirectory=/sys/class/bluetooth).
+set 03 20:30:11 victor-huron kdeconnectd[871]: kdeconnect.core: No local bluetooth adapter found
+set 03 20:30:11 victor-huron kdeconnectd[871]: Error sending UDP packet: QAbstractSocket::NetworkError
+set 03 20:30:11 victor-huron systemd-logind[489]: The system will suspend now!
+set 03 20:30:11 victor-huron chromium[1534]: [1534:1539:0903/203011.657615:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -331
+set 03 20:30:11 victor-huron chromium[1489]: [1489:1509:0903/203011.658763:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -331
+set 03 20:30:11 victor-huron kernel: e1000e 0000:00:19.0 enp0s25: NIC Link is Down
+set 03 20:30:11 victor-huron kdeconnectd[871]: kdeconnect.core: Failed to open any MDNS client sockets
+set 03 20:30:11 victor-huron kdeconnectd[871]: kdeconnect.core: Failed to open any MDNS server sockets
+set 03 20:30:11 victor-huron NetworkManager[486]: <info>  [1756949411.6808] device (enp0s25): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+set 03 20:30:11 victor-huron ModemManager[525]: <msg> [sleep-monitor-systemd] system is about to suspend
+set 03 20:30:11 victor-huron ModemManager[525]: <msg> [sleep-monitor-systemd] ready to sleep; dropping inhibitor
+set 03 20:30:11 victor-huron NetworkManager[486]: <info>  [1756949411.8906] device (wlp3s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+set 03 20:30:11 victor-huron NetworkManager[486]: <info>  [1756949411.8931] manager: NetworkManager state is now DISCONNECTED
+set 03 20:30:11 victor-huron NetworkManager[486]: <info>  [1756949411.8935] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+set 03 20:30:11 victor-huron NetworkManager[486]: <info>  [1756949411.8937] device (wlp3s0): state change: unavailable -> unmanaged (reason 'unmanaged-sleeping', managed-type: 'full')
+set 03 20:30:11 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:12 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:12 victor-huron NetworkManager[486]: <info>  [1756949412.3186] manager: NetworkManager state is now ASLEEP
+set 03 20:30:12 victor-huron systemd[1]: Reached target Sleep.
+set 03 20:30:12 victor-huron systemd[1]: Starting System Suspend...
+set 03 20:30:12 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-DSCP-POLICY clear_all
+set 03 20:30:12 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-DSCP-POLICY clear_all
+set 03 20:30:12 victor-huron wpa_supplicant[543]: nl80211: deinit ifname=wlp3s0 disabled_11b_rates=0
+set 03 20:30:12 victor-huron systemd[1]: user@1000.service: Unit now frozen-by-parent.
+set 03 20:30:12 victor-huron systemd[1]: session-1.scope: Unit now frozen-by-parent.
+set 03 20:30:12 victor-huron systemd[1]: session-3.scope: Unit now frozen-by-parent.
+set 03 20:30:12 victor-huron systemd[1]: user-1000.slice: Unit now frozen-by-parent.
+set 03 20:30:12 victor-huron systemd[1]: user.slice: Unit now frozen.
+set 03 20:30:12 victor-huron systemd-sleep[3560]: Successfully froze unit 'user.slice'.
+set 03 20:30:12 victor-huron systemd-sleep[3560]: Performing sleep operation 'suspend'...
+set 03 20:30:12 victor-huron kernel: PM: suspend entry (deep)
+set 03 20:30:13 victor-huron ModemManager[525]: <msg> [ttyS4/probe] probe step: start
+set 03 20:30:13 victor-huron ModemManager[525]: <msg> [ttyS4/probe] probe step: AT open port
+set 03 20:30:13 victor-huron ModemManager[525]: <msg> [ttyS4/probe] probe step: AT
+set 03 20:30:13 victor-huron ModemManager[525]: <wrn> [plugin-manager] task 13,enp0s25: error when checking support with plugin 'Intel': (Intel) Missing port probe for port (net/enp0s25)
+set 03 20:30:13 victor-huron ModemManager[525]: <wrn> [plugin-manager] task 13,enp0s25: error when checking support with plugin 'generic': (generic) Missing port probe for port (net/enp0s25)
+set 03 20:30:14 victor-huron kernel: ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+set 03 20:30:15 victor-huron kernel: ata1.00: ACPI cmd f5/00:00:00:00:00:a0(SECURITY FREEZE LOCK) filtered out
+set 03 20:30:15 victor-huron kernel: ata1.00: ACPI cmd ef/10:03:00:00:00:a0(SET FEATURES) filtered out
+set 03 20:30:15 victor-huron kernel: sd 0:0:0:0: [sda] Starting disk
+set 03 20:30:15 victor-huron kernel: ata1.00: ACPI cmd f5/00:00:00:00:00:a0(SECURITY FREEZE LOCK) filtered out
+set 03 20:30:15 victor-huron kernel: ata1.00: ACPI cmd ef/10:03:00:00:00:a0(SET FEATURES) filtered out
+set 03 20:30:15 victor-huron kernel: ata1.00: configured for UDMA/100
+set 03 20:30:23 victor-huron kernel: Filesystems sync: 3.287 seconds
+set 03 20:30:23 victor-huron kernel: Freezing user space processes
+set 03 20:30:23 victor-huron kernel: Freezing user space processes completed (elapsed 0.001 seconds)
+set 03 20:30:23 victor-huron kernel: OOM killer disabled.
+set 03 20:30:23 victor-huron kernel: Freezing remaining freezable tasks
+set 03 20:30:23 victor-huron kernel: Freezing remaining freezable tasks completed (elapsed 0.000 seconds)
+set 03 20:30:23 victor-huron kernel: printk: Suspending console(s) (use no_console_suspend to debug)
+set 03 20:30:23 victor-huron kernel: sd 0:0:0:0: [sda] Synchronizing SCSI cache
+set 03 20:30:23 victor-huron kernel: ata1.00: Entering standby power mode
+set 03 20:30:23 victor-huron kernel: e1000e: EEE TX LPI TIMER: 00000011
+set 03 20:30:23 victor-huron kernel: ACPI: EC: interrupt blocked
+set 03 20:30:23 victor-huron kernel: ACPI: PM: Preparing to enter system sleep state S3
+set 03 20:30:23 victor-huron kernel: ACPI: EC: event blocked
+set 03 20:30:23 victor-huron kernel: ACPI: EC: EC stopped
+set 03 20:30:23 victor-huron kernel: ACPI: PM: Saving platform NVS memory
+set 03 20:30:23 victor-huron kernel: Disabling non-boot CPUs ...
+set 03 20:30:23 victor-huron kernel: smpboot: CPU 3 is now offline
+set 03 20:30:23 victor-huron kernel: smpboot: CPU 2 is now offline
+set 03 20:30:23 victor-huron kernel: smpboot: CPU 1 is now offline
+set 03 20:30:23 victor-huron kernel: ACPI: PM: Low-level resume complete
+set 03 20:30:23 victor-huron kernel: ACPI: EC: EC started
+set 03 20:30:23 victor-huron kernel: ACPI: PM: Restoring platform NVS memory
+set 03 20:30:23 victor-huron kernel: Enabling non-boot CPUs ...
+set 03 20:30:23 victor-huron kernel: smpboot: Booting Node 0 Processor 1 APIC 0x1
+set 03 20:30:23 victor-huron kernel: CPU1 is up
+set 03 20:30:23 victor-huron kernel: smpboot: Booting Node 0 Processor 2 APIC 0x2
+set 03 20:30:23 victor-huron kernel: CPU2 is up
+set 03 20:30:23 victor-huron kernel: smpboot: Booting Node 0 Processor 3 APIC 0x3
+set 03 20:30:23 victor-huron kernel: CPU3 is up
+set 03 20:30:23 victor-huron kernel: ACPI: PM: Waking up from system sleep state S3
+set 03 20:30:23 victor-huron kernel: ACPI: EC: interrupt unblocked
+set 03 20:30:23 victor-huron kernel: sdhci-pci 0000:02:00.0: MMC controller base frequency changed to 50Mhz.
+set 03 20:30:23 victor-huron kernel: ACPI: EC: event unblocked
+set 03 20:30:23 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:23 victor-huron kernel: usb 2-1.6: reset high-speed USB device number 4 using ehci-pci
+set 03 20:30:23 victor-huron kernel: ata5: SATA link down (SStatus 0 SControl 300)
+set 03 20:30:23 victor-huron kernel: ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+set 03 20:30:23 victor-huron kernel: ata2.00: ACPI cmd ef/10:03:00:00:00:a0(SET FEATURES) filtered out
+set 03 20:30:23 victor-huron kernel: ata2.00: ACPI cmd ef/10:03:00:00:00:a0(SET FEATURES) filtered out
+set 03 20:30:23 victor-huron kernel: ata2.00: configured for UDMA/133
+set 03 20:30:23 victor-huron kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+set 03 20:30:23 victor-huron kernel: usb 2-1.1: reset full-speed USB device number 3 using ehci-pci
+set 03 20:30:23 victor-huron kernel: OOM killer enabled.
+set 03 20:30:23 victor-huron kernel: Restarting tasks ... done.
+set 03 20:30:23 victor-huron kernel: random: crng reseeded on system resumption
+set 03 20:30:23 victor-huron ModemManager[525]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:19.0': not supported by any plugin
+set 03 20:30:23 victor-huron ModemManager[525]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:1c.1/0000:03:00.0': not supported by any plugin
+set 03 20:30:23 victor-huron kernel: PM: suspend exit
+set 03 20:30:23 victor-huron systemd-sleep[3560]: System returned from sleep operation 'suspend'.
+set 03 20:30:23 victor-huron systemd[1]: user.slice: Unit now thawed.
+set 03 20:30:23 victor-huron systemd[1]: user-1000.slice: Unit now thawed.
+set 03 20:30:23 victor-huron systemd-sleep[3560]: Successfully thawed unit 'user.slice'.
+set 03 20:30:23 victor-huron systemd[1]: session-3.scope: Unit now thawed.
+set 03 20:30:23 victor-huron systemd[1]: session-1.scope: Unit now thawed.
+set 03 20:30:23 victor-huron systemd[1]: user@1000.service: Unit now thawed.
+set 03 20:30:23 victor-huron systemd[1]: systemd-suspend.service: Deactivated successfully.
+set 03 20:30:23 victor-huron systemd[1]: Finished System Suspend.
+set 03 20:30:23 victor-huron systemd[1]: Stopped target Sleep.
+set 03 20:30:23 victor-huron systemd[1]: Reached target Suspend.
+set 03 20:30:23 victor-huron systemd[1]: Stopped target Suspend.
+set 03 20:30:23 victor-huron systemd-logind[489]: Operation 'suspend' finished.
+set 03 20:30:23 victor-huron ModemManager[525]: <msg> [sleep-monitor-systemd] system is resuming
+set 03 20:30:23 victor-huron NetworkManager[486]: <info>  [1756949423.5801] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+set 03 20:30:23 victor-huron NetworkManager[486]: <info>  [1756949423.5802] device (enp0s25): state change: unavailable -> unmanaged (reason 'unmanaged-sleeping', managed-type: 'full')
+set 03 20:30:23 victor-huron ModemManager[525]: <wrn> [plugin-manager] task 12: port context already being processed
+set 03 20:30:23 victor-huron systemd[1]: Bluetooth service was skipped because of an unmet condition check (ConditionPathIsDirectory=/sys/class/bluetooth).
+set 03 20:30:23 victor-huron kdeconnectd[871]: kdeconnect.core: No local bluetooth adapter found
+set 03 20:30:23 victor-huron kdeconnectd[871]: Error sending UDP packet: QAbstractSocket::NetworkError
+set 03 20:30:23 victor-huron kdeconnectd[871]: kdeconnect.core: Failed to open any MDNS client sockets
+set 03 20:30:23 victor-huron kernel: e1000e 0000:00:19.0 enp0s25: NIC Link is Down
+set 03 20:30:23 victor-huron kdeconnectd[871]: kdeconnect.core: Failed to open any MDNS server sockets
+set 03 20:30:23 victor-huron NetworkManager[486]: <info>  [1756949423.6826] device (enp0s25): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+set 03 20:30:23 victor-huron NetworkManager[486]: <info>  [1756949423.8911] device (wlp3s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+set 03 20:30:23 victor-huron NetworkManager[486]: <info>  [1756949423.8922] manager: NetworkManager state is now DISCONNECTED
+set 03 20:30:23 victor-huron wpa_supplicant[543]: dbus: fill_dict_with_properties dbus_interface=fi.w1.wpa_supplicant1.Interface.P2PDevice dbus_property=P2PDeviceConfig getter failed
+set 03 20:30:23 victor-huron NetworkManager[486]: <info>  [1756949423.9099] device (wlp3s0): supplicant interface state: internal-starting -> disconnected
+set 03 20:30:23 victor-huron NetworkManager[486]: <info>  [1756949423.9100] device (wlp3s0): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+set 03 20:30:25 victor-huron ModemManager[525]: <wrn> [plugin-manager] task 15,enp0s25: error when checking support with plugin 'Intel': (Intel) Missing port probe for port (net/enp0s25)
+set 03 20:30:25 victor-huron ModemManager[525]: <wrn> [plugin-manager] task 15,enp0s25: error when checking support with plugin 'generic': (generic) Missing port probe for port (net/enp0s25)
+set 03 20:30:26 victor-huron NetworkManager[486]: <info>  [1756949426.9999] policy: auto-activating connection 'Greca24' (5aacbba7-b4a8-4009-ba41-fb83b51cef35)
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0004] device (wlp3s0): Activation: starting connection 'Greca24' (5aacbba7-b4a8-4009-ba41-fb83b51cef35)
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0005] device (wlp3s0): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0009] manager: NetworkManager state is now CONNECTING
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0016] device (wlp3s0): state change: prepare -> config (reason 'none', managed-type: 'full')
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0020] device (wlp3s0): Activation: (wifi) access point 'Greca24' has security, but secrets are required.
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0020] device (wlp3s0): state change: config -> need-auth (reason 'none', managed-type: 'full')
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0248] device (wlp3s0): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0253] device (wlp3s0): state change: prepare -> config (reason 'none', managed-type: 'full')
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0260] device (wlp3s0): Activation: (wifi) connection 'Greca24' has security, and secrets exist.  No new secrets needed.
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0262] Config: added 'ssid' value 'Greca24'
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0262] Config: added 'scan_ssid' value '1'
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0262] Config: added 'bgscan' value 'simple:30:-70:86400'
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0262] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK'
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0262] Config: added 'auth_alg' value 'OPEN'
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0262] Config: added 'psk' value '<hidden>'
+set 03 20:30:27 victor-huron wpa_supplicant[543]: wlp3s0: SME: Trying to authenticate with e6:66:ab:10:9a:66 (SSID='Greca24' freq=2437 MHz)
+set 03 20:30:27 victor-huron kernel: wlp3s0: authenticate with e6:66:ab:10:9a:66 (local address=a4:4e:31:dc:06:40)
+set 03 20:30:27 victor-huron kernel: wlp3s0: send auth to e6:66:ab:10:9a:66 (try 1/3)
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0410] device (wlp3s0): supplicant interface state: disconnected -> authenticating
+set 03 20:30:27 victor-huron kernel: wlp3s0: authenticated
+set 03 20:30:27 victor-huron wpa_supplicant[543]: wlp3s0: Trying to associate with e6:66:ab:10:9a:66 (SSID='Greca24' freq=2437 MHz)
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0429] device (wlp3s0): supplicant interface state: authenticating -> associating
+set 03 20:30:27 victor-huron kernel: wlp3s0: associate with e6:66:ab:10:9a:66 (try 1/3)
+set 03 20:30:27 victor-huron kernel: wlp3s0: RX AssocResp from e6:66:ab:10:9a:66 (capab=0x1c31 status=0 aid=20)
+set 03 20:30:27 victor-huron kernel: ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+set 03 20:30:27 victor-huron wpa_supplicant[543]: wlp3s0: Associated with e6:66:ab:10:9a:66
+set 03 20:30:27 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-SUBNET-STATUS-UPDATE status=0
+set 03 20:30:27 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=CN
+set 03 20:30:27 victor-huron kernel: wlp3s0: associated
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0772] device (wlp3s0): supplicant interface state: associating -> 4way_handshake
+set 03 20:30:27 victor-huron wpa_supplicant[543]: wlp3s0: WPA: Key negotiation completed with e6:66:ab:10:9a:66 [PTK=CCMP GTK=CCMP]
+set 03 20:30:27 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-CONNECTED - Connection to e6:66:ab:10:9a:66 completed [id=0 id_str=]
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0987] device (wlp3s0): supplicant interface state: 4way_handshake -> completed
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0987] device (wlp3s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Greca24"
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0989] device (wlp3s0): state change: config -> ip-config (reason 'none', managed-type: 'full')
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.0994] dhcp4 (wlp3s0): activation: beginning transaction (timeout in 45 seconds)
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.1517] dhcp4 (wlp3s0): state changed new lease, address=169.254.0.9, acd pending
+set 03 20:30:27 victor-huron kernel: wlp3s0: Limiting TX power to 30 (30 - 0) dBm as advertised by e6:66:ab:10:9a:66
+set 03 20:30:27 victor-huron systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+set 03 20:30:27 victor-huron kernel: ata1.00: ACPI cmd f5/00:00:00:00:00:a0(SECURITY FREEZE LOCK) filtered out
+set 03 20:30:27 victor-huron kernel: ata1.00: ACPI cmd ef/10:03:00:00:00:a0(SET FEATURES) filtered out
+set 03 20:30:27 victor-huron kernel: sd 0:0:0:0: [sda] Starting disk
+set 03 20:30:27 victor-huron kernel: ata1.00: ACPI cmd f5/00:00:00:00:00:a0(SECURITY FREEZE LOCK) filtered out
+set 03 20:30:27 victor-huron kernel: ata1.00: ACPI cmd ef/10:03:00:00:00:a0(SET FEATURES) filtered out
+set 03 20:30:27 victor-huron kernel: ata1.00: configured for UDMA/100
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.3080] dhcp4 (wlp3s0): state changed new lease, address=169.254.0.9
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.3091] policy: set 'Greca24' (wlp3s0) as default for IPv4 routing and DNS
+set 03 20:30:27 victor-huron wpa_supplicant[543]: wlp3s0: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-60 noise=9999 txrate=1000
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.5506] device (wlp3s0): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+set 03 20:30:27 victor-huron systemd[1]: Starting Network Manager Script Dispatcher Service...
+set 03 20:30:27 victor-huron systemd[1]: Started Network Manager Script Dispatcher Service.
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.5829] device (wlp3s0): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.5831] device (wlp3s0): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.5838] manager: NetworkManager state is now CONNECTED_SITE
+set 03 20:30:27 victor-huron NetworkManager[486]: <info>  [1756949427.5843] device (wlp3s0): Activation: successful, device activated.
+set 03 20:30:27 victor-huron ModemManager[525]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:19.0': not supported by any plugin
+set 03 20:30:27 victor-huron ModemManager[525]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:1c.1/0000:03:00.0': not supported by any plugin
+set 03 20:30:28 victor-huron NetworkManager[486]: <info>  [1756949428.0267] manager: NetworkManager state is now CONNECTED_GLOBAL
+set 03 20:30:28 victor-huron kdeconnectd[871]: kdeconnect.core: Failed to send mDNS query: No se puede asignar la dirección solicitada
+set 03 20:30:37 victor-huron systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+set 03 20:30:39 victor-huron ModemManager[525]: <msg> [ttyS4/probe] probe step: AT close port
+set 03 20:30:39 victor-huron ModemManager[525]: <msg> [ttyS4/probe] probe step: QCDM
+set 03 20:30:45 victor-huron ModemManager[525]: <msg> [ttyS4/probe] probe step: QCDM close port
+set 03 20:30:45 victor-huron ModemManager[525]: <msg> [ttyS4/probe] probe step: done
+set 03 20:30:45 victor-huron ModemManager[525]: <msg> [device /sys/devices/pci0000:00/0000:00:16.3] creating modem with plugin 'generic' and '1' ports (17aa:8086:1e3d)
+set 03 20:30:45 victor-huron ModemManager[525]: <wrn> [plugin/generic] could not grab port ttyS4: Cannot add port 'tty/ttyS4', unhandled port type
+set 03 20:30:45 victor-huron ModemManager[525]: <wrn> [modem4] teardown not called before dispose
+set 03 20:30:45 victor-huron ModemManager[525]: <wrn> [base-manager] couldn't create modem for device '/sys/devices/pci0000:00/0000:00:16.3': Failed to find primary AT port
