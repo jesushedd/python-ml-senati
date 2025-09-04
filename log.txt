@@ -1,0 +1,96 @@
+set 03 20:14:06 victor-huron systemd[1]: Started dbus-:1.2-org.kde.powerdevil.backlighthelper@9.service.
+set 03 20:14:16 victor-huron systemd[1]: dbus-:1.2-org.kde.powerdevil.backlighthelper@9.service: Deactivated successfully.
+set 03 20:14:22 victor-huron kscreenlocker_greet[3007]: qt.virtualkeyboard.hunspell: Hunspell dictionary is missing for "es_ES". Search paths QList("/usr/share/qt6/qtvirtualkeyboard/hunspell", "/usr/share/hunspell", "/usr/share/myspell/dicts")
+set 03 20:14:28 victor-huron systemd[1]: Started dbus-:1.2-org.kde.powerdevil.backlighthelper@10.service.
+set 03 20:14:38 victor-huron systemd[1]: dbus-:1.2-org.kde.powerdevil.backlighthelper@10.service: Deactivated successfully.
+set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:09 victor-huron systemd[1]: Started Getty on tty3.
+set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:09 victor-huron plasmashell[681]: file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml:91: TypeError: Cannot read property 'description' of undefined
+set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:09 victor-huron plasmashell[681]: file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml:91: TypeError: Cannot read property 'description' of undefined
+set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:09 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null.monitor"
+set 03 20:17:09 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null.monitor"
+set 03 20:17:09 victor-huron kernel: fbcon: Taking over console
+set 03 20:17:09 victor-huron kernel: Console: switching to colour frame buffer device 200x56
+set 03 20:17:09 victor-huron systemd[1]: systemd-vconsole-setup.service: Deactivated successfully.
+set 03 20:17:09 victor-huron systemd[1]: Stopped Virtual Console Setup.
+set 03 20:17:09 victor-huron systemd[1]: Stopping Virtual Console Setup...
+set 03 20:17:09 victor-huron systemd[1]: Starting Virtual Console Setup...
+set 03 20:17:09 victor-huron systemd[1]: Finished Virtual Console Setup.
+set 03 20:17:19 victor-huron login[3064]: pam_unix(login:session): session opened for user victorj(uid=1000) by victorj(uid=0)
+set 03 20:17:20 victor-huron systemd-logind[489]: New session 3 of user victorj.
+set 03 20:17:20 victor-huron systemd[1]: Started Session 3 of User victorj.
+set 03 20:17:20 victor-huron login[3064]: LOGIN ON tty3 BY victorj
+set 03 20:17:20 victor-huron wireplumber[819]: spa.bluez5: BlueZ system service is not available
+set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null"
+set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null"
+set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null.monitor"
+set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null.monitor"
+set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:20 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:20 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:20 victor-huron systemd[1]: Starting Network Manager Wait Online...
+set 03 20:17:20 victor-huron systemd[1]: Starting PackageKit Daemon...
+set 03 20:17:20 victor-huron PackageKit[3109]: daemon start
+set 03 20:17:20 victor-huron systemd[1]: Finished Network Manager Wait Online.
+set 03 20:17:20 victor-huron systemd[1]: Reached target Network is Online.
+set 03 20:17:20 victor-huron systemd[1]: Started PackageKit Daemon.
+set 03 20:17:20 victor-huron PackageKit[3109]: search-file transaction /1_adbabbac from uid 1000 finished with success after 299ms
+set 03 20:17:22 victor-huron kcminit[3355]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_mouse.so"
+set 03 20:17:22 victor-huron kcminit[3355]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_touchpad.so"
+set 03 20:17:22 victor-huron kcminit[3355]: kcm_touchpad: Using X11 backend
+set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:32 victor-huron plasmashell[681]: file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml:91: TypeError: Cannot read property 'description' of undefined
+set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:32 victor-huron plasmashell[681]: file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml:91: TypeError: Cannot read property 'description' of undefined
+set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:32 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null.monitor"
+set 03 20:17:32 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null.monitor"
+set 03 20:17:33 victor-huron wireplumber[819]: spa.bluez5: BlueZ system service is not available
+set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null"
+set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null"
+set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "auto_null.monitor"
+set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "auto_null.monitor"
+set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:33 victor-huron kded6[668]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SINK@"
+set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "@DEFAULT_SOURCE@"
+set 03 20:17:33 victor-huron plasmashell[681]: org.kde.pulseaudio: No object for name "alsa_input.pci-0000_00_1b.0.analog-stereo"
+set 03 20:17:34 victor-huron kcminit[3371]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_mouse.so"
+set 03 20:17:34 victor-huron kcminit[3371]: Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_touchpad.so"
+set 03 20:17:34 victor-huron kcminit[3371]: kcm_touchpad: Using X11 backend
